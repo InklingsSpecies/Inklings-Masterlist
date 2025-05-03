@@ -15,9 +15,9 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Charadex",
-  url: "https://charadex-team.github.io/charadex-v1.0/",
-  description: `A tool for organizing small ARPGs and species.`
+  title: "Inklings Masterlist",
+  url: "https://InklingsSpecies.github.io/Inklings-Masterlist/",
+  description: `A Masterlist for the Inklings Species.`
 }
 
 /* ==================================================================== */
@@ -26,7 +26,7 @@ charadex.site = {
 /* ==================================================================== */
 charadex.sheet = {
 
-  id: "1GwgfLizD3HQCieGia6di-TfU4E3EipT9Jb0BDZQwNak",
+  id: "1YvGt4ykErQvZDix6bfeMb0MsU0lRq5KB054EyBGL-f0",
 
   pages: {
     masterlist:    "masterlist",
