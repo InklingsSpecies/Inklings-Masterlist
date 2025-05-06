@@ -735,6 +735,8 @@ p:last-child {
   min-height: 250px;
   font-weight: 800;
   font-size: 2.5rem;
+  background-size: cover;
+  background-position: center;
 }
 
 @media (min-width: 768px) {
